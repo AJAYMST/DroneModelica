@@ -1,0 +1,11 @@
+ 
+Compiling and linking the model (Visual C++). 
+ 
+dsmodel.c
+C:/Program Files/Dymola 2022\source\dsblock5.c(1106): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+   Creating library dymosim.lib and object dymosim.exp
+libds.lib(dsres.obj) : warning LNK4217: locally defined symbol ___iob_func imported in function _ds_res_int_poll
+libds.lib(amat.obj) : warning LNK4049: locally defined symbol ___iob_func imported
+ 
+Successful generation of Dymosim. 
+ 
