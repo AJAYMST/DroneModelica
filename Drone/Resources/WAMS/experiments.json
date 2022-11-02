@@ -1,0 +1,19 @@
+{
+  "Drone.Mechanical.Chassis.Examples.droneChassis" : [ {
+    "created" : "2022-11-01T11:53:55.078Z",
+    "lastModified" : "2022-11-01T11:53:55.078Z",
+    "name" : "Experiment 1",
+    "expressions" : [ ],
+    "model" : "Drone.Mechanical.Chassis.Examples.droneChassis",
+    "settings" : {
+      "dynamic" : {
+        "tolerance" : 0.001
+      },
+      "steadyState" : { },
+      "custom" : { },
+      "simulationType" : "dynamic"
+    },
+    "filters" : [ ],
+    "isDefault" : true
+  } ]
+}
